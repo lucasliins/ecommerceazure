@@ -1,0 +1,30 @@
+CREATE TABLE Produtos (
+    id INT IDENTITY(1,1) PRIMARY KEY,
+    nome NVARCHAR(255),
+    descricao nvarchar(MAX),
+    preco DECIMAL(18,2)
+    imagem_url NVARCHAR(2083)
+
+)
+
+
+lucaslinsadminuser2807
+Quiteria64Aragao@
+sqllab001databasedeveastus
+dbsrvdeveastuslab0012
+
+#Caso não tenha streamlit instalado: 
+
+To install, you can use a comand:
+
+python -m pip install streamlit
+or just run:
+py -m pip install streamlit
+
+To run your code you can use:
+
+python -m streamlit run your_script.py
+
+or just :
+
+py -m streamlit run your_script.py

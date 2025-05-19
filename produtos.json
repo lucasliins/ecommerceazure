@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "TESTE ",
+        "descricao": "TESTE 123",
+        "preco": 0.06,
+        "imagem_url": null
+    },
+    {
+        "nome": "TESTE",
+        "descricao": "TESTAGEM123",
+        "preco": 0.06,
+        "imagem_url": null
+    },
+    {
+        "nome": "TESTE",
+        "descricao": "TESTAGEM123",
+        "preco": 0.06,
+        "imagem_url": null
+    },
+    {
+        "nome": "TESTE",
+        "descricao": "testagem123",
+        "preco": 0.06,
+        "imagem_url": null
+    },
+    {
+        "nome": "TESTE",
+        "descricao": "testagem",
+        "preco": 0.06,
+        "imagem_url": null
+    },
+    {
+        "nome": "TESTE",
+        "descricao": "testagem123",
+        "preco": 0.06,
+        "imagem_url": "https://stadevlab001eastus.blob.core.windows.net/fotos/1d909399-3910-4df4-91ee-40cac43e8935.jpg"
+    },
+    {
+        "nome": "TESTE",
+        "descricao": "testagem123",
+        "preco": 0.06,
+        "imagem_url": "https://stadevlab001eastus.blob.core.windows.net/fotos/f525d234-d04b-4c04-bec8-e3cb8b606e14.jpg"
+    },
+    {
+        "nome": "TESTE2",
+        "descricao": "Testagem2",
+        "preco": 1.5,
+        "imagem_url": "https://stadevlab001eastus.blob.core.windows.net/fotos/c7908242-a336-4d4b-9f12-1f88c1aa1b08.jpg"
+    }
+]
